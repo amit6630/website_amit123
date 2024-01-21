@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "התהליך והמחיר.html",
     "theme": {
       "name": "agentm5",
       "title": "AgentM5",
@@ -84,7 +84,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/file-128x128.png",
-    "mbrsiteDomain": "thebwas",
+    "mbrsiteDomain": "glahdvmwne",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -1915,7 +1915,7 @@
         }
       ]
     },
-    "page1.html": {
+    "התהליך והמחיר.html": {
       "settings": {
         "title": "מחירים והסברים|הסבר על תהליך בניית אתר",
         "order": "1",
