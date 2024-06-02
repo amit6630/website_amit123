@@ -68,7 +68,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 27,
-    "versionPublish": "5.9.4",
+    "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
@@ -90,7 +90,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/file-128x128.png",
-    "mbrsiteDomain": "ulmxbftah2",
+    "mbrsiteDomain": "p9kcme9qcb",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -129,7 +129,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "password_protect_password": ""
+        "password_protect_password": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/2b5ddd4d-38be-4d8c-b348-60ecc2aa5fb4-100x65.jpg"
       },
       "components": [
         {
